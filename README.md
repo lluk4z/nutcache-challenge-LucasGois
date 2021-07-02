@@ -1,7 +1,10 @@
 # Employees List
 
+Home page
 <img src="src/assets/images/home.png" alt="Home"/>
+Popup for register an employee
 <img src="src/assets/images/Modal.png" alt="Home"/>
+Responsive page
 <img src="src/assets/images/responsiveHome.png" alt="Home"/>
 
 # How to use
