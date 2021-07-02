@@ -4,6 +4,14 @@
 <img src="src/assets/images/Modal.png" alt="Home"/>
 <img src="src/assets/images/responsiveHome.png" alt="Home"/>
 
+# How to use
+
+Clone this repository in your local machine with command git clone 'Address of repository'
+Install dependencies with the command yarn install
+Run the App in you machine at 3000 door
+For running app use the command yarn start
+So, you must see the app running at the 3000 door in your browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
