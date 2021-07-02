@@ -1,7 +1,8 @@
 # Employees List
 
 <img src="src/assets/images/home.png" alt="Home"/>
-<img src="src/assets/images/modal.png" alt="Home"/>
+<img src="src/assets/images/Modal.png" alt="Home"/>
+<img src="src/assets/images/responsiveHome.png" alt="Home"/>
 
 # Getting Started with Create React App
 
