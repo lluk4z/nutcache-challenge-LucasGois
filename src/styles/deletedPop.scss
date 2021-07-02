@@ -1,0 +1,60 @@
+.popupDel {
+	width: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+	z-index: 10;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-family: 'Roboto', sans-serif;
+	.containerDel {
+		//background-color: rgb(123, 191, 216);
+		background: #f4364c;
+		color:ghostwhite;
+		width: 20%;
+		height: 50%;
+		border-radius: 20px;
+		display: inline-table;
+		-webkit-box-shadow: 5px 10px 17px 6px rgba(0,0,0,0.46); 
+		box-shadow: 5px 10px 17px 6px rgba(0,0,0,0.46);
+		.contentDel {
+			display: flex;
+			flex-direction: inherit;
+			align-items: center;
+			h2 {
+				display: flex;
+				padding: 30px;
+				font-size: 2rem;
+			}
+		}
+
+		.closeDel {
+			background-color: transparent;
+			border: none;
+			outline: none;
+			width: 5px;
+			height: 5px;
+			right: calc(-100% + 20px);
+			cursor: pointer;
+			top: 16px;
+			display: flex;
+			position: relative;
+			align-items: center;
+			&:before, 
+			&:after{
+				content: ' ';
+				position: absolute;
+				width: 2px;
+				height: 20px;
+				background-color: whitesmoke;	
+			}
+			&:before {
+				transform: rotate(45deg);
+			}
+			&:after {
+				transform: rotate(-45deg);
+			}
+		}
+	}
+}
