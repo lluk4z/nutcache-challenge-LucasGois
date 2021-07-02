@@ -6,11 +6,11 @@
 
 # How to use
 
-Clone this repository in your local machine with command git clone 'Address of repository'
-Install dependencies with the command yarn install
-Run the App in you machine at 3000 door
-For running app use the command yarn start
-So, you must see the app running at the 3000 door in your browser
+Clone this repository in your local machine with command git clone 'Address of repository' <br>
+Install dependencies with the command yarn install <br>
+Run the App in you machine at 3000 door <br>
+For running app use the command yarn start <br>
+So, you must see the app running at the 3000 door in your browser <br>
 
 # Getting Started with Create React App
 
